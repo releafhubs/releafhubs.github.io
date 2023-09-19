@@ -2,7 +2,7 @@
 # Banner
 banner:
   title: "ReLeafHubs"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  content: "ReLeafHubs is ..."
   image: "/images/ReLeafHubs1.png"
   button:
     enable: true
@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "What's Included in ReLeafHubs"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "ReLeafHubs is ..."
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
